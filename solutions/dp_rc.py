@@ -1,4 +1,4 @@
-# Greedy heuristic algorithm for the Rod cutting problem
+# Dynamic programming approach for the Rod cutting problem
 # 11/10/2026
 # Noah B & Kohlby V
 
