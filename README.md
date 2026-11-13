@@ -1,2 +1,2 @@
 # CS411-Final
-CS 411 Final Project (rod-cutting) done by Noah &amp; Kohlby at University of Alaska Fairbanks
+CS 411 Final Project (rod-cutting) done by Noah, Kohlby & Ivy at University of Alaska Fairbanks
