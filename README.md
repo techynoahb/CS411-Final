@@ -1,2 +1,12 @@
 # CS411-Final
-CS 411 Final Project (rod-cutting) done by Noah, Kohlby & Ivy at University of Alaska Fairbanks
+
+Rod cutting: comparing recursive, dynamic programming, and greedy algorithms.
+CS 411 semester project by Noah Bush, Kohlby Vierthaler, and Ivy Swenson at the University of Alaska Fairbanks.
+
+## Language
+
+Python 3.9.6. Standard library only, no packages to install.
+
+## How to run
+
+... TBD
