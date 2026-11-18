@@ -1,1 +1,1 @@
-## Final Writeup will be placed as a pdf in this report folder!
+## Final Writeup will be in this folder as a pdf!
