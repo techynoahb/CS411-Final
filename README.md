@@ -9,4 +9,9 @@ Python 3.9.6. Standard library only, no packages to install.
 
 ## How to run
 
-... TBD
+From the project folder:
+
+'''
+python3 main.py
+'''
+
