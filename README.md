@@ -1,7 +1,7 @@
 # CS411-Final
 
 Rod cutting: comparing recursive, dynamic programming, and greedy algorithms.
-CS 411 semester project by Noah Bush, Kohlby Vierthaler, and Ivy Swenson at the University of Alaska Fairbanks.
+CS 411 Fall 2026 semester project by Noah Bush, Kohlby Vierthaler, and Ivy Swenson at the University of Alaska Fairbanks. Contains source code for algorithms in \solutions and a report analyzing the correctness, time complexity, and differing approaches of each.
 
 ## Language
 
